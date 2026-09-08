@@ -80,3 +80,7 @@ rams review my changes
 - Web: [rams.ai](https://www.rams.ai) · Rules: [rams.ai/rules](https://www.rams.ai/rules) · Pricing: [rams.ai/pricing](https://www.rams.ai/pricing)
 - Official MCP registry: `ai.rams/rams` · [Glama](https://glama.ai/mcp/connectors/ai.rams.worker/rams) · [Smithery](https://smithery.ai/server/@eli-rousso/rams) · [mcp.so](https://mcp.so/servers/rams)
 - GitHub App (reviews every PR automatically): [rams.ai](https://www.rams.ai)
+
+## License
+
+This connection guide is MIT licensed. The hosted engine is a commercial service by [HSLA0001 Inc.](https://www.rams.ai)
